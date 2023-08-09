@@ -92,6 +92,10 @@ button:hover+p {
     color: white;
 }
 
+#WhatMore {
+    height: 72vh;
+}
+
 div {
     font-family: 'Fjalla One';
     font-size: 165px;
