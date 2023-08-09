@@ -197,3 +197,8 @@ section:nth-of-type(5) {
     background-color: black;
     background-size: cover;
 }
+
+h6 {
+    margin: 5vh;
+    text-align: center;
+    }
