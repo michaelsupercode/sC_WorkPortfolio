@@ -2,6 +2,11 @@ body {
     margin: 5vh;
 }
 
+li {
+        list-style: none;
+
+}
+
 header h1 {
     font-family: 'Didact Gothic';
     text-align: center;
@@ -114,6 +119,7 @@ footer {
     text-align: center;
     color: black;
     font-family: 'Didact Gothic';
+        list-style: none;
 }
 
 .heart {
@@ -127,6 +133,8 @@ footer {
 
 footer p {
     font-size: 6px;
+        list-style: none;
+
 }
 
 @keyframes move {
