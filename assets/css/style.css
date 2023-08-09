@@ -1,3 +1,7 @@
+body {
+    margin: 5vh;
+}
+
 header h1 {
     font-family: 'Didact Gothic';
     text-align: center;
@@ -8,6 +12,7 @@ h2 {
     font-family: 'Work Sans';
     text-align: center;
     font-size: 160px;
+        margin: 5vh;
 }
 
 header p {
